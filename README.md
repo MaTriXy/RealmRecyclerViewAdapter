@@ -1,4 +1,4 @@
-## RecyclerView.AdapterでRealmを扱う
+## RecyclerViewでRealmResultを扱う
 
 Realmはクエリ結果となるRealmResultをListViewで表示するためのアダプタとして[RealmBaseAdapter](https://realm.io/docs/java/latest/api/io/realm/RealmBaseAdapter.html)を用意している. 
 ListViewを使用する場合は問題ないがRecyclerViewではこれを使用できない. 
